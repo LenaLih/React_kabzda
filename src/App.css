@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+
+.App {
+  background-color: #2d448a;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.box {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+.boxOnOff {
+  width: 80px;
+  background-color: #626267;
+  border: 1px solid #0e0d0d;
+}
+.boll {
+  width: 30px;
+  background-color: #1a500b;
+  border: 1px solid #0e0d0d;
+  border-radius: 50%;
+}
+.red {
+  background-color: #f44336;
+}
+.green {
+  background-color: #1a500b;
+}
+
+
+
